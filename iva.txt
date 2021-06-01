@@ -1,0 +1,15 @@
+
+CANTIDAD DE PRODUCTOS: 3
+
+PRODUCTO: teclado, 
+PRECIO: $23.0 (USD).
+
+PRODUCTO: asdf, 
+PRECIO: $432.0 (USD).
+
+PRODUCTO: dsaf, 
+PRECIO: $23.0 (USD).
+
+Total: $478.00 (USD)
+Iva: $62.14 (USD)
+Total Neto: $540.14 (USD).
